@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611d4d3f-1eed-4e4c-a25e-472d69ad08b8" name="Changes" comment="" />
+    <list default="true" id="611d4d3f-1eed-4e4c-a25e-472d69ad08b8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +32,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Volumes/GoogleDrive/My Drive/Personal Development/GitHub/django-for-beginners-31-vincent/django_for_beginners_31_ch4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,6 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1654325357725</updated>
       <workItem from="1654325366462" duration="4112000" />
+      <workItem from="1654331827210" duration="318000" />
     </task>
     <servers />
   </component>
